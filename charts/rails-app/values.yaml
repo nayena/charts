@@ -11,6 +11,9 @@ image:
   tag: ""
 
 imagePullSecrets: []
+
+envVars: []
+
 nameOverride: ""
 fullnameOverride: ""
 
@@ -80,3 +83,4 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
