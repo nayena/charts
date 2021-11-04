@@ -3,6 +3,16 @@ entries:
   rails-app:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-11-04T22:18:50.166115629Z"
+    description: A Helm chart for Rails apps on k8s
+    digest: 24f891dbc371cc04e028b62e1e65516bd4c917ab58088895d4640cd9d0261667
+    name: rails-app
+    type: application
+    urls:
+    - https://github.com/nayena/charts/releases/download/rails-app-1.0.1/rails-app-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-11-04T21:48:37.713392202Z"
     description: A Helm chart for Rails apps on k8s
     digest: 05d77cc7582eabe7bdfae11b4f151234a081f239346f512570a8e3ed58196314
